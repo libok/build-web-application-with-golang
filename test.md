@@ -5,6 +5,12 @@ Date:   2014-08-27
 # 夏目接口文档
 
 ## 配置文件
+| 级别 | 名称 | 类型 | 描述 | 
+| :-: | -- | -- |
+| M | questId | int | 主线任务ID |
+| M | clothes | string | 服装ID, 多件衣服由半角逗号分隔. 如: 10842,11388 |
+[Request参数]
+
 
 | First Header  | Second Header | Third Header         |
 | :------------ | :-----------: | -------------------: |
@@ -44,7 +50,7 @@ The original image is 128x128 and contains no shadow.
 ``` javascript
 	{
 	    "data": {
-	    	"grade": "C", //评级
+	    	"grade": "评级 [string]: S, A, B, C, D, F", //评级
 	    	"score": 8583,  //分数
 	        "friendRank": 7, //好友排名
 	        "rank": 759361, //排名	        
