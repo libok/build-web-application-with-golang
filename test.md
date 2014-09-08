@@ -14,7 +14,7 @@ Date:   2014-08-27
 
 | First Header  | Second Header | Third Header         |
 | :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
+| M | questId | int | 主线任务ID |
 | Second row    | **Cell**      | *Cell*               |
 | Third row     | Cell that spans across two columns  ||
 [Table caption, works as a reference][section-mmd-tables-table1] 
