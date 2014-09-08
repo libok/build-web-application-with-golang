@@ -7,19 +7,12 @@ Date:   2014-08-27
 ## 配置文件
 
 |  级别 |  名称 |  类型  |  描述  | 
-| :------------ | :-----------: | -------------------: | ---- |
+| :-: | -- | -- | -- |
 |  级别 |  名称 |  类型  |  描述  | 
 | M | questId | int | 主线任务ID |
 | M | clothes | string | 服装ID, 多件衣服由半角逗号分隔. 如: 10842,11388 |
 [Request参数]
 
-
-| First Header  | Second Header | Third Header         |
-| :------------ | :-----------: | -------------------: |
-| First row     | Data          | Very long data entry |
-| Second row    | **Cell**      | *Cell*               |
-| Third row     | Cell that spans across two columns  ||
-[Table caption, works as a reference][section-mmd-tables-table1] 
 
 —
 The original image is 128x128 and contains no shadow.
