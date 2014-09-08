@@ -9,7 +9,7 @@ Date:   2014-08-27
 | :------------: | ------------ | ------------ |
 | M | questId | int | 主线任务ID |
 | M | clothes | string | 服装ID, 多件衣服由半角逗号分隔. 如: 10842,11388 |
-[Request参数]
+[Request参数][section-mmd-tables-table1] 
 
 
 | First Header  | Second Header | Third Header         |
