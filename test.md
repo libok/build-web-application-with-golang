@@ -6,7 +6,7 @@ Date:   2014-08-27
 
 ## 配置文件
 
-| First Header  | Second Header | Third Header         | xxxx |
+| 级别  | 名称 | Third Header         | xxxx |
 | :------------ | :-----------: | -------------------: | ---- |
 |  级别 |  名称 |  类型  |  描述  | 
 | M | questId | int | 主线任务ID |
