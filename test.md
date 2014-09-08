@@ -6,8 +6,8 @@ Date:   2014-08-27
 
 ## 配置文件
 
-| 	a级别a 	| 	a名称a 	| a类型a | a描述a | 
-| :------------: | ------------ | ------------ |
+| First Header  | Second Header | Third Header  | third       |
+| :------------: | ------------ | ------------ | ----|
 | M | questId | int | 主线任务ID |
 | M | clothes | string | 服装ID, 多件衣服由半角逗号分隔. 如: 10842,11388 |
 [Request参数][section-mmd-tables-table1] 
